@@ -1,0 +1,14 @@
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\bin\Debug\Creating an application win forms.exe.config
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\bin\Debug\Creating an application win forms.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\bin\Debug\Creating an application win forms.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating an application win forms.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating an application win forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating_an_application_win_forms.CashCalculator.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating_an_application_win_forms.Properties.Resources.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating an application win forms.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating an application win forms.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating an application win forms.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating an application win forms.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating_an_application_win_forms.main.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating_an_application_win_forms.shop.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\Creating an application win forms\obj\Debug\Creating_an_application_win_forms.Salon.resources
