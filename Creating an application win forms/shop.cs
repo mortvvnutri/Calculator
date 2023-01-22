@@ -25,7 +25,7 @@ namespace Creating_an_application_win_forms
             int tomatoCount = ToInt32(numericUpDown5.Text);
             int potatoCount = ToInt32(numericUpDown6.Text);
 
-            sum = prices[0] * breadCount + prices[1] * shocoladeCount + prices[2] * sausageCount + prices[3] * sheeseCount / 1000 + prices[4] * tomatoCount / 1000 + prices[5] * potatoCount / 1000;
+            sum = prices[0] * breadCount + prices[1] * shocoladeCount + prices[2] * sausageCount / 1000 + prices[3] * sheeseCount / 1000 + prices[4] * tomatoCount / 1000 + prices[5] * potatoCount / 1000;
 
             string promo = textBox1.Text;
 
